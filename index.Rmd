@@ -33,7 +33,7 @@ meta() %>%
   )
 ```
 
-## Welcome  
+## Welcome changes  
 
 These are the materials for an invited session for Day 3 of the RStudio Instructor Training and Certification Program, by Dr. Alison Presmanes Hill.
 
